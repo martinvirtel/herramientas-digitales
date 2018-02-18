@@ -16,6 +16,8 @@ Herramientas para contar historias - en las clases del [Máster en Periodismo BC
 
 ### Raw
 
+
+
 ### Google Charts
 
 
@@ -24,5 +26,4 @@ Herramientas para contar historias - en las clases del [Máster en Periodismo BC
 
 ### Good Reads:
 
-  - [One Chart, twelve Tools](https://lisacharlotterost.github.io/2016/05/17/one-chart-tools/) by the very bright Lisa Charlotte Rost,
-    tries out Tableau, Excel and other good tools to visualize the same dataset.
+  - [One Chart, twelve Tools](https://lisacharlotterost.github.io/2016/05/17/one-chart-tools/) dated 2016, but updated throug the years - the very bright and sorely missed former colleague [Lisa Charlotte Rost][lcr] tries out Tableau, Excel and other good tools to visualize the same dataset.
